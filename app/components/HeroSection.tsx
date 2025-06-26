@@ -6,7 +6,7 @@ export default function HeroSection() {
     <section className="relative bg-gradient-to-r from-blue-500 to-purple-600 text-white py-20">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-8 md:mb-0">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I'm Naveen Kumar Mutyala</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I&apos;m Naveen Kumar Mutyala</h1>
           <h2 className="text-2xl md:text-3xl font-semibold mb-6">Frontend Developer</h2>
           <p className="text-lg mb-8 max-w-lg">
             I build exceptional digital experiences with modern technologies.

@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
 import { MoonIcon, SunIcon } from '@heroicons/react/24/solid';
-import ExperienceTimeline from './ExperieceTimeline';
 
 export default function Header() {
   const pathname = usePathname();

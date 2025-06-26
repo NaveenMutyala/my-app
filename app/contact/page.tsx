@@ -7,8 +7,8 @@ export default function Contact() {
         <div className="md:w-1/2">
           <div className="prose dark:prose-invert max-w-none mb-8">
             <p className="text-lg mb-4">
-              I'm currently looking for new opportunities. Whether you have a 
-              question or just want to say hi, I'll do my best to get back to you!
+              I&apos;m currently looking for new opportunities. Whether you have a 
+              question or just want to say hi, I&apos;ll do my best to get back to you!
             </p>
           </div>
           

@@ -11,7 +11,7 @@ import { SiNextdotjs, SiTailwindcss, SiTypescript, SiMongodb } from 'react-icons
 
 export interface Skill {
   name: string;
-  icon: any;
+  icon: React.ComponentType<{ className?: string }>;
 }
 
 export const skills: Skill[] = [

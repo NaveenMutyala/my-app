@@ -1,6 +1,6 @@
 import React from 'react';
-import { FaBriefcase, FaGraduationCap, FaAws } from 'react-icons/fa';
-import {  SiReact, SiPython, SiJavascript } from 'react-icons/si';
+import { FaGraduationCap, FaAws } from 'react-icons/fa';
+import { SiReact } from 'react-icons/si';
 import { GrTest } from 'react-icons/gr';
 
 interface TimelineItem {
