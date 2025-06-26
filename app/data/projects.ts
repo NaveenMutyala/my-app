@@ -21,6 +21,16 @@ export const projects: Project[] = [
     featured: true,
   },
   {
+    id: '4',
+    title: 'Portfolio Website',
+    description: 'Portfolio website to showcase myself to everyone',
+    tags: ['nextJS','React', 'CSS', 'HTML'],
+    imageUrl: '/images/image4.png',
+    projectUrl: 'https://naveen-portfolio-app.netlify.app/',
+    githubUrl: 'https://github.com/NaveenMutyala/my-app/tree/main',
+    featured: true,
+  },
+  {
     id: '2',
     title: 'Crypto APP',
     description: 'Full-featured crypto details app',
